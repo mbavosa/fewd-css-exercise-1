@@ -7,7 +7,6 @@ h1{
 .bold-and-italic{
   font-weight: bold;
   font-style: italic;
-  display: inline;
 }
 .parent-class > li{
   color: #FFA07A;
